@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Music
+  - shadow
+  - BrushColor
+  - ImagePart
+  - bucket
+  - ball
+  - backbutt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - hadak
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: hadak
+    uniqueID: 3133985935
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: shadow
+    uniqueID: 472636435
+    locked: 0
+  - name: pieceess
+    uniqueID: 1963652071
+    locked: 0

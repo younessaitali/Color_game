@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f1a2d3ce657a664f915033f72ebaa8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelsPanel: {instanceID: 0}
+  - mainAudioSource: {instanceID: 0}
+  - buttonClick: {instanceID: 0}
+  - GDPRpanel: {instanceID: 0}
+  - Setingpanel: {instanceID: 0}
+  - theBackbutt: {fileID: 1070171040753860, guid: 1c012018b082ef44398c7cfffd638695,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

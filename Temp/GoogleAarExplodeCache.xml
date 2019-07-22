@@ -1,0 +1,206 @@
+<aars>
+  <explodeData>
+    <aar>android.arch.core.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.runtime-1.0.0</aar>
+    <modificationTime>2018-11-28T08:35:34.0784980+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.customtabs-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.0974456+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.customtabs-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-annotations-26.1.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.5243393+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.5442845+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.5622037+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.5811533+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.6030946+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-26.1.0</aar>
+    <modificationTime>2018-11-28T08:35:34.6176124+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-15.0.1</aar>
+    <modificationTime>2018-11-28T08:35:34.6395518+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-base-15.0.1</aar>
+    <modificationTime>2018-11-28T08:35:34.6634894+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-base-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-identifier-15.0.1</aar>
+    <modificationTime>2018-11-28T08:35:34.6784484+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-lite-15.0.1</aar>
+    <modificationTime>2018-11-28T08:35:34.6954029+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-lite-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-15.0.1</aar>
+    <modificationTime>2018-11-28T08:35:34.7163748+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-gass-15.0.1</aar>
+    <modificationTime>2018-11-28T08:35:34.7333293+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>younes.aimin.tf</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-gass-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
